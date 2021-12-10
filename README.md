@@ -1,2 +1,11 @@
-# Advanced-Biomedical-Experimental-Design-and-Statistics-Python
-Module and worked statistic examples in Python
+# Advanced-Biomedical-Experimental-Design-and-Statistics
+
+Worked lecture examples in Python and MATLAB.
+
+## Python 
+
+Module 
+
+## MATLAB 
+
+Toolbox 
