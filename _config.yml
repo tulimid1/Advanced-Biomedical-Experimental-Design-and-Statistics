@@ -16,6 +16,8 @@ minimal: false             # use a dark header
 
 # Menu
 
+navigation:                # aceepts {file, title, url, icon, sidebaricon}
+
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tulimid@udel.edu"}
   - {title: Link, icon: link, url: "https://tulimid1.github.io/"}
