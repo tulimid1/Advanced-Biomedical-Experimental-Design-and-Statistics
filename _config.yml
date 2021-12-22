@@ -16,10 +16,6 @@ minimal: false             # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-#   - {file: "m-doc.md"}
-#   - {file: "py-doc.md"}
-
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tulimid@udel.edu"}
   - {title: Link, icon: link, url: "https://tulimid1.github.io/"}
