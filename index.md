@@ -22,8 +22,9 @@ Syllabus:
 * [Bootstrapping](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Bootstrapping/Bootstrapping.ipynb)
 
 Extras:
-* [MLE]()
-* [Bayes]()
+* [MLE](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Extra/MLE_bruteVis.ipynb)
+* [Bayes](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Extra/Bayes_stuff.ipynb)
+* [MCMC](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Extra/MCMC.ipynb)
 
 Notes: Things get a bit dicey during ANOVA part. [pingouin](https://pingouin-stats.org/api.html) is a great package for this section. I bet it can handle everything and make some things a bit easier (pairwise comparisons), but it still has some bugs that need to be worked out. 
 
