@@ -21,6 +21,10 @@ Syllabus:
 * [Markov Chain Monte Carlo (MCMC)](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Markov%20Chain%20Monte%20Carlo%20(MCMC)/MarkovChainMonteCarlo_MCMC.ipynb)
 * [Bootstrapping](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Bootstrapping/Bootstrapping.ipynb)
 
+Extras:
+* [MLE]()
+* [Bayes]()
+
 Notes: Things get a bit dicey during ANOVA part. [pingouin](https://pingouin-stats.org/api.html) is a great package for this section. I bet it can handle everything and make some things a bit easier (pairwise comparisons), but it still has some bugs that need to be worked out. 
 
 [Issues](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/issues) and [Discussion](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/discussions).
