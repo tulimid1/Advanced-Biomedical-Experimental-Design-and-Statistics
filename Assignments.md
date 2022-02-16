@@ -1,1 +1,38 @@
-Assignments 
+---
+title: Assignments
+layout: page
+---
+
+Here is an outline for a pipeline of how to turn in beautiful looking assignments. It mainly relies on using [Overleaf](https://www.overleaf.com/) as the LaTeX editor. This can all be done in [Microsoft Word](https://udeploy.udel.edu/software-categories/office-productivity/), but I think LaTeX is a great skill to know and have if ever needed. 
+
+# Table of Contents 
+* [Python](#python)
+* [MATLAB](#matlab)
+
+## Python
+
+There are many ways to do steps X-Y, but I outline how to do using [Anaconda](https://www.anaconda.com/products/individual) and [Visual Studio Code](https://code.visualstudio.com/) as IDEs/code editors. All resources are free. 
+
+1. Finalize .ipynb code.
+2. Open Anaconda.
+3. Launch Jupyter Notebooks. 
+4. Navigate to assignment .ipynb.
+5. File > Print > Save as PDF.
+6. Open Overleaf. 
+7. Create a new document (feel free to use outline given).
+8. Add answers to answers page with figures (recommend looking at [best_save function](https://tulimid1.github.io/savingfigR/best_save_py/)).
+9. Upload figures and code PDF.
+10. Compile. 
+
+
+## MATLAB 
+
+This is all a bit simplier in MATLAB. 
+
+1. Finalize .mlx code.
+2. Save > Export to PDF.
+3. Open Overleaf.
+4. Create a new document (feel free to use outline given).
+5. Add answers to answers page with figures (recommend looking at [best_save function](https://tulimid1.github.io/savingfigR/best_save_m/)).
+6. Upload figures and code PDF.
+7. Compile. 
