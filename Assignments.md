@@ -11,10 +11,10 @@ Here is an outline for a pipeline of how to turn in beautiful looking assignment
 
 ## Python
 
-There are many ways to do steps X-Y, but I outline how to do using [Anaconda](https://www.anaconda.com/products/individual) and [Visual Studio Code](https://code.visualstudio.com/) as IDEs/code editors. All resources are free. 
+There are many ways to do steps X-Y, but I outline how to do using [Anaconda Navigator](https://www.anaconda.com/products/individual) and [Visual Studio Code](https://code.visualstudio.com/) as IDEs/code editors. All resources are free. 
 
 1. Finalize .ipynb code.
-2. Open Anaconda.
+2. Open Anaconda Navigator.
 3. Launch Jupyter Notebooks. 
 4. Navigate to assignment .ipynb.
 5. File > Print > Save as PDF.
