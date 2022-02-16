@@ -20,10 +20,11 @@ There are many ways to do steps X-Y, but I outline how to do using [Anaconda Nav
 5. Print (Command + P or Ctrl + P) > Save as PDF.
 6. Open Overleaf. 
 7. Create a new project (e.g. document) (feel free to use outline given).
-8. Add answers to answers page with figures (recommend looking at [best_save function](https://tulimid1.github.io/savingfigR/best_save_py/)).
+8. Add answers to answers page with figures code (recommend looking at [best_save function](https://tulimid1.github.io/savingfigR/best_save_py/)).
+9. Upload figures and code PDF.
 * I recommend creating a new folder so the project workspace doesn't get crazy. 
-10. Upload figures and code PDF.
-11. Compile. 
+10. Compile. 
+* This is when you will see the figures start to show up in the document preview. 
 
 
 ## MATLAB 
