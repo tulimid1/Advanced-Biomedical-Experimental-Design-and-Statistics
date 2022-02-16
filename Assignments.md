@@ -21,7 +21,7 @@ There are many ways to do steps X-Y, but I outline how to do using [Anaconda Nav
 ![](guiding_figs/step3.png)
 7. Print (Command + P or Ctrl + P) > Save as PDF.
 ![](guiding_figs/step4.png)
-9. Open Overleaf and create a new project (e.g. document) (feel free to use this LaTeX [outline]()).
+9. Open Overleaf and create a new project (e.g. document) (feel free to use this LaTeX [outline](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/A0X_outline.tex)).
 ![](guiding_figs/step5.png)
 12. Add answers to answers and figures via LaTeX code. 
 ![](guiding_figs/step6.png)
@@ -40,7 +40,7 @@ This is all a bit simplier in MATLAB.
 1. Finalize .mlx code.
 2. Save > Export to PDF.
 3. Open Overleaf.
-4. Create a new document (feel free to use outline given).
+4. Create a new document (feel free to use this LaTeX [outline](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/A0X_outline.tex)).
 5. Add answers to answers page with figures (recommend looking at [best_save function](https://tulimid1.github.io/savingfigR/best_save_m/)).
 6. Upload figures and code PDF.
 7. Compile. 
