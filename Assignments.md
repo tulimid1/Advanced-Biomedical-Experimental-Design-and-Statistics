@@ -17,7 +17,7 @@ There are many ways to do steps X-Y, but I outline how to do using [Anaconda Nav
 2. Open Anaconda Navigator.
 3. Launch Jupyter Notebooks. 
 4. Navigate to assignment .ipynb.
-5. File > Print > Save as PDF.
+5. Print (Command + P or Ctrl + P) > Save as PDF.
 6. Open Overleaf. 
 7. Create a new document (feel free to use outline given).
 8. Add answers to answers page with figures (recommend looking at [best_save function](https://tulimid1.github.io/savingfigR/best_save_py/)).
