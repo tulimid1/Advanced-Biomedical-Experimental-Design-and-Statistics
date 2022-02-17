@@ -43,7 +43,7 @@ This is all a bit simplier in MATLAB.
 ![](guiding_figs/step2m.png)
 3. Open Overleaf and create a new project (e.g. document) (feel free to use this LaTeX [outline](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/A0X_outline.tex)).
 ![](guiding_figs/step5.png)
-4. Add answers to answers and figures via LaTeX code. 
+4. Add answers and figures via LaTeX code. 
 ![](guiding_figs/step6.png)
 5. Upload figures and code PDF.
 * I recommend creating a new folder so the project workspace doesn't get crazy. 
