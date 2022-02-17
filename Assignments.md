@@ -11,7 +11,7 @@ Here is an outline for a pipeline of how to turn in beautiful assignments. It ma
 
 ## Python
 
-There are many ways to do steps X-Y, but I outline how to do using [Anaconda Navigator](https://www.anaconda.com/products/individual) and [Visual Studio Code](https://code.visualstudio.com/) as IDEs/code editors. All resources are free. 
+There are many ways to do steps 1-4, but I outline how to do using [Anaconda Navigator](https://www.anaconda.com/products/individual) and [Visual Studio Code](https://code.visualstudio.com/) as IDEs/code editors. All resources are free. 
 
 1. Finalize .ipynb code.
 ![](guiding_figs/step1py.png)
