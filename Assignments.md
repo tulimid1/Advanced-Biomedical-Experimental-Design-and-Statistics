@@ -3,7 +3,7 @@ title: Assignments
 layout: page
 ---
 
-Here is an outline for a pipeline of how to turn in beautiful assignments. It mainly relies on using [Overleaf](https://www.overleaf.com/) as the LaTeX editor. This can all be done in [Microsoft Word](https://udeploy.udel.edu/software-categories/office-productivity/), but I think LaTeX is a great skill to know and have if ever needed. 
+Here is an outline for a pipeline of how to turn in beautiful assignments. It mainly relies on using [Overleaf](https://www.overleaf.com/) as the LaTeX editor. This can all be done in [Microsoft Word](https://udeploy.udel.edu/software-categories/office-productivity/), but I think LaTeX is a great skill to know and have if ever needed. If you ever need to figure out something with LaTeX, I recommend just searching "Overleaf *latex problem*". Overleaf has great documentation about how to do many things in it's platform. 
 
 # Table of Contents 
 * [Python](#python)
