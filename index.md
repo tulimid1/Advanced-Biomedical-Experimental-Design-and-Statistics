@@ -12,7 +12,7 @@ Syllabus:
 * [Effect Size and Power](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Effect%20Size%20and%20Power)
 * [Regression](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Regression)
 * [One Way (Between) Analysis of Variance (ANOVA)](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/One%20Way%20(Between)%20Analysis%20of%20Variance%20(ANOVA))
-* [Two Way (Between) Analysis of Variance (ANOVA0](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Two%20Way%20(Between)%20Analysis%20of%20Variance%20(ANOVA))
+* [Two Way (Between) Analysis of Variance (ANOVA)](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Two%20Way%20(Between)%20Analysis%20of%20Variance%20(ANOVA))
 * [Repeated Measures (Within) Analysis of Variance](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Repeated%20Measures%20(Within)%20Analysis%20of%20Variance%20(ANOVA))
 * [Mixed Analysis of Variance (MANOVA)](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Mixed%20Analysis%20of%20Variance%20(MANOVA))
 * [Analysis of Covariance](https://github.com/tulimid1/Advanced-Biomedical-Experimental-Design-and-Statistics/blob/main/Analysis%20of%20Covariance%20(ANCOVA))
